@@ -7,6 +7,10 @@ const ReplicatedStorage = game:GetService("ReplicatedStorage")
 const TeleportService = game:GetService("TeleportService")
 
 -- Modules
+<<<<<<< HEAD
+=======
+print("hello my friends")
+>>>>>>> ac2559b8796e778e2a98c8df5ce3af7fe0b10eca
 
 -- Variables
 local partyMemoryStore = MemoryStoreService:GetHashMap("PartyMemoryStore")
